@@ -11,5 +11,9 @@
 		<key>string</key>
 		<string>V</string>
 	</dict>
+	<key>persistForFiles</key>
+	<integer>1</integer>
+	<key>persistForImages</key>
+	<integer>1</integer>
 </dict>
 </plist>

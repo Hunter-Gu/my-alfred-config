@@ -10,19 +10,6 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>16394FDB-6DC1-49CF-B93C-4E4ABA4C9433</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>246E017F-FF6D-44CD-B377-C176EF0D9FE2</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
 				<string>6C353C02-C60A-4603-8414-F66EFA9B574C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -292,7 +279,7 @@
 			<dict>
 				<key>paths</key>
 				<array>
-					<string>/Applications/iTerm.app</string>
+					<string>/Applications/Warp.app</string>
 				</array>
 				<key>toggle</key>
 				<false/>
@@ -309,7 +296,7 @@
 			<dict>
 				<key>paths</key>
 				<array>
-					<string>/Applications/IntelliJ IDEA.app</string>
+					<string>/Applications/Visual Studio Code.app</string>
 				</array>
 				<key>toggle</key>
 				<false/>
@@ -388,7 +375,7 @@
 			<dict>
 				<key>paths</key>
 				<array>
-					<string>/Applications/Visual Studio Code.app</string>
+					<string>/System/Applications/Mail.app</string>
 				</array>
 				<key>toggle</key>
 				<false/>
@@ -429,37 +416,6 @@
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>22</integer>
-				<key>hotmod</key>
-				<integer>1048576</integer>
-				<key>hotstring</key>
-				<string>6</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-				<key>relatedAppsMode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>246E017F-FF6D-44CD-B377-C176EF0D9FE2</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>focusedappvariable</key>
-				<false/>
-				<key>focusedappvariablename</key>
-				<string></string>
-				<key>hotkey</key>
 				<integer>26</integer>
 				<key>hotmod</key>
 				<integer>1048576</integer>
@@ -478,23 +434,6 @@
 			<string>083CE2B0-6672-4D93-BA28-C599AC963401</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>paths</key>
-				<array>
-					<string>/Applications/网易有道词典.app</string>
-				</array>
-				<key>toggle</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.launchfiles</string>
-			<key>uid</key>
-			<string>16394FDB-6DC1-49CF-B93C-4E4ABA4C9433</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -628,7 +567,7 @@
 			<dict>
 				<key>paths</key>
 				<array>
-					<string>/Applications/企业微信.app</string>
+					<string>/Applications/RingCentral.app</string>
 				</array>
 				<key>toggle</key>
 				<false/>
@@ -711,20 +650,6 @@ A hotkey needs to contain a modifier (Cmd, Ctrl or Alt) and a keyboard character
 			<key>ypos</key>
 			<integer>850</integer>
 		</dict>
-		<key>16394FDB-6DC1-49CF-B93C-4E4ABA4C9433</key>
-		<dict>
-			<key>xpos</key>
-			<integer>460</integer>
-			<key>ypos</key>
-			<integer>850</integer>
-		</dict>
-		<key>246E017F-FF6D-44CD-B377-C176EF0D9FE2</key>
-		<dict>
-			<key>xpos</key>
-			<integer>150</integer>
-			<key>ypos</key>
-			<integer>710</integer>
-		</dict>
 		<key>2E0ED573-0DA8-4EF0-8BB8-7C32490A732B</key>
 		<dict>
 			<key>xpos</key>
@@ -777,9 +702,9 @@ A hotkey needs to contain a modifier (Cmd, Ctrl or Alt) and a keyboard character
 		<key>6C353C02-C60A-4603-8414-F66EFA9B574C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>450</integer>
+			<integer>465</integer>
 			<key>ypos</key>
-			<integer>710</integer>
+			<integer>840</integer>
 		</dict>
 		<key>816B49AA-BA9F-4856-8808-EF6B04EABB79</key>
 		<dict>
